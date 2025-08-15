@@ -1,30 +1,7 @@
-# Visual Studio Code (VS Code) - Complete Beginner's Guide
+# My VS Code Learning Notes
 
-## 📋 Table of Contents
-1. [What is VS Code?](#what-is-vs-code)
-2. [Why Learn VS Code?](#why-learn-vs-code)
-3. [How VS Code Works](#how-vs-code-works)
-4. [Available Terminals](#available-terminals)
-5. [Getting Started](#getting-started)
-6. [Command Line Basics](#command-line-basics)
-7. [Quick Reference](#quick-reference)
-8. [Next Steps](#next-steps)
 
----
-
-## 📚 What is VS Code?
-
-Visual Studio Code (VS Code) is a **free code editor** developed by Microsoft. It's one of the most popular tools for writing and managing code.
-
-### Key Facts:
-- ✅ **100% Free** - No hidden costs
-- ✅ **Cross-platform** - Windows, Mac, Linux
-- ✅ **Lightweight** - Fast and responsive
-- ✅ **Extensible** - Thousands of extensions
-
----
-
-## 🤔 Why Learn VS Code? The Smart Choice!
+> These are my personal notes and documentation from learning Visual Studio Code (VS Code). All content here is based on my own exploration and practice, not an official guide. Use these notes as a reference for my learning journey and hands-on experiments.
 
 ### 🚀 The Modern Developer's Dilemma
 

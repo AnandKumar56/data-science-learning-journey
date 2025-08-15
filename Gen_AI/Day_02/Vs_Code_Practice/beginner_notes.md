@@ -1,8 +1,7 @@
-# Visual Studio Code (VS Code) - Beginner's Guide
+# My VS Code Beginner Notes
 
-## 📚 What is Visual Studio Code?
 
-Visual Studio Code (VS Code) is a **free code editor** developed by Microsoft. It's one of the most popular tools for writing and managing code.
+> These are my personal beginner notes from learning Visual Studio Code (VS Code). All content here is based on my own exploration and practice, not an official guide. Use these notes as a reference for my learning journey and hands-on experiments.
 
 ---
 

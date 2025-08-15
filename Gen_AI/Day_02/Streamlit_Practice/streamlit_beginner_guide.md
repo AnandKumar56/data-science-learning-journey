@@ -1,4 +1,4 @@
-# Python vs Streamlit - Complete Beginner's Guide
+# My Streamlit & Python Learning Notes
 
 ## 📋 Table of Contents
 1. [What's the Difference?](#whats-the-difference)
@@ -14,7 +14,9 @@
 
 ---
 
-## 📚 What's the Difference?
+## 📚 What's the Difference? 
+
+> These are my personal notes and documentation from learning Streamlit and Python. All content here is based on my own exploration and practice, not an official guide. Use these notes as a reference for my learning journey and hands-on experiments.
 
 When working with Python, you'll encounter two main types of files:
 
