@@ -1,0 +1,7 @@
+hello
+hai
+how
+are
+you
+
+To Save Press ctrl + S
