@@ -1,5 +1,11 @@
 import google.generativeai as genai
 import streamlit as st
+import os
+from dotenv import load_dotenv
+load_dotenv()
+
+# place your .env file here
+Gemini_api_key=os.getenv("GEMINI_API_KEY")
 from PIL import Image
 
 uploaded_file=st.file_uploader("Upload an image file",type=["jpg", "jpeg", "png"])
@@ -10,7 +16,7 @@ if uploaded_file is not None:
     st.image(img, caption='Uploaded Image')
 
 # Configure API key
-genai.configure(api_key="AIzaSyA8OBB4ifoqznOX_2F1T_HorTW9DmY_4Gw")
+genai.configure(api_key=os.getenv("GEMINI_API_KEY"))
 
 # Create model instance
 model = genai.GenerativeModel("gemini-2.5-flash")
